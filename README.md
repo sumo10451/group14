@@ -1,6 +1,6 @@
 ## Group 14
 ### Teamates : 
-- Hemanth Anumolu
+- Hemanth Kumar Anumolu
 - Sumanth Dodda
 - Ramya Jampani
 - Bhavya Sri Killi
