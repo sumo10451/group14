@@ -26,23 +26,27 @@ This application will be using the frontend web application as the User interfac
 
 ### Iteration 1:
 1. we will go through the library first, understand the input and output format. 
-2. Installing the basic configurations and softwares required to work with the library.
-3. Figure out the technologies, tools, pipelines and programming languages that will be needed to build the application.
-4. Getting familiarized with the tools, languages and technologies. 
+2. Installing the basic configurations and software packages required to work with the library.
+3. Figure out the technologies, tools, pipelines, and programming languages that will be needed to build the application.
+4. Getting familiarized with the tools, languages, and technologies. 
 
 ### Iteration 2:
 1. working with the model and testing the model for any issues.
-2. check if there can be any changes made to the model to improve it's accuracy.
-3. Basic setup and installation of softwares for developing the web application. 
+2. check if there can be any changes made to the model to improve its accuracy.
+3. Basic setup and installation of software packages for developing the web application. 
 
 ### Iteration 3:
 1. Develop the web application and integrate the text-to-voice model with the application.
 2. Testing the application for any red flags or breaks and fix any issues if found.
+3. Understanding different inbuilt flags present and understanding and using them better
 
 ### Iteration 4:
 1. create a deployment pipeline and deploy the project.
 2. Testing the project end-to-end and fix any issues if found.
+3. Creating a basic HTML page and posting input to the server backend and display output given
+4. Deploying it on one of the cloud-based providers to run over the network
 
 ### Iteration 5:
-Documentation and presentation for the project delivery.
+1. Self Signed certificates configuration
+2. Documentation and presentation for the project delivery.
 
