@@ -30,6 +30,10 @@ This application will be using the frontend web application as the User interfac
 3. Figure out the technologies, tools, pipelines, and programming languages that will be needed to build the application.
 4. Getting familiarized with the tools, languages, and technologies. 
 
+## Observations and further work after iteration 1: 
+We will be working again on CUDA, and we will be focusing on passing on a manual input to our API using a static webpage and try to display our output in a webpage and making it accessible, to the internet
+
+
 ### Iteration 2:
 1. working with the model and testing the model for any issues.
 2. check if there can be any changes made to the model to improve its accuracy.
