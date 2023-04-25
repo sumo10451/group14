@@ -50,3 +50,11 @@ This application will be using the frontend web application as the User interfac
 1. Self Signed certificates configuration
 2. Documentation and presentation for the project delivery.
 
+## Installation
+- sudo apt update -y && sudo apt full-upgrade -y
+- git clone https://github.com/sumo10451/group14.git
+- cd group14/
+- python3.10 -m pip install -r requirements.txt
+- python3.1- -m pip install streamlit
+- streamlit run streamlit_audio_converter.py --server-port 80
+
