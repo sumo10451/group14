@@ -1,0 +1,4 @@
+espeak-ng
+googletrans
+TTS
+streamlit
