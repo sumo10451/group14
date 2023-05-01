@@ -52,7 +52,9 @@ This application will be using the frontend web application as the User interfac
 
 ## Installation
 - sudo apt update -y && sudo apt full-upgrade -y
-- cd Python-3.10.*/
+- wget https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz
+- tar zxvf Python-3.10.0.tgz  
+- cd Python-3.10.0/
 - ./configure --enable-optimizations
 - git clone https://github.com/sumo10451/group14.git
 - cd group14/
