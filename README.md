@@ -52,9 +52,11 @@ This application will be using the frontend web application as the User interfac
 
 ## Installation
 - sudo apt update -y && sudo apt full-upgrade -y
+- cd Python-3.10.*/
+- ./configure --enable-optimizations
 - git clone https://github.com/sumo10451/group14.git
 - cd group14/
 - python3.10 -m pip install -r requirements.txt
-- python3.1- -m pip install streamlit
+- python3.10- -m pip install streamlit
 - streamlit run streamlit_audio_converter.py --server-port 80
 
