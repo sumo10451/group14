@@ -47,8 +47,7 @@ This application will be using the frontend web application as the User interfac
 4. Deploying it on one of the cloud-based providers to run over the network
 
 ### Iteration 5:
-1. Self Signed certificates configuration
-2. Documentation and presentation for the project delivery.
+1. Documentation and presentation for the project delivery.
 
 ## Installation
 - sudo apt update -y && sudo apt full-upgrade -y
