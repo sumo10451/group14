@@ -58,7 +58,7 @@ This application will be using the frontend web application as the User interfac
 - ./configure --enable-optimizations
 - git clone https://github.com/sumo10451/group14.git
 - cd group14/
-- sudo apt install espeak-ng
+- sudo apt install espeak-ng -y
 - python3.10 -m pip install -r requirements.txt
 - python3.10- -m pip install streamlit
 - streamlit run streamlit_audio_converter.py --server-port 80
