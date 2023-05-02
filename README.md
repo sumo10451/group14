@@ -49,16 +49,51 @@ This application will be using the frontend web application as the User interfac
 ### Iteration 5:
 1. Documentation and presentation for the project delivery.
 
-## Installation
-- sudo apt update -y && sudo apt full-upgrade -y
-- wget https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz
-- tar zxvf Python-3.10.0.tgz  
-- cd Python-3.10.0/
-- ./configure --enable-optimizations
-- git clone https://github.com/sumo10451/group14.git
-- cd group14/
-- sudo apt install espeak-ng -y
-- python3.10 -m pip install -r requirements.txt
-- python3.10 -m pip install streamlit
-- streamlit run streamlit_audio_converter.py --server-port 80
+# Installation
+ System Requirement and project setup: (Ubuntu or any Debian distro)
+###
+### Step 1: Update your System to the latest
+```bash
+sudo apt update -y && sudo apt full-upgrade -y
+```
+
+
+### Step 2: Download the supporting python Version for TTS (Python>=3.7 <3.11) 
+```bash
+wget https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz
+```
+
+### Step 3: Unzip it and Change into the directory
+```bash
+tar zxvf Python-3.10.0.tgz && cd Python-3.10.0/
+```
+
+### Step 4: Install Python 3.10
+```bash
+./configure --enable-optimizations
+```
+
+### Step 5: Clone the Project and Change into the directory
+```bash
+git clone https://github.com/sumo10451/group14.git && cd group14/
+```
+
+### Step 6: Install espeak manually 
+```bash
+sudo apt install espeak-ng -y
+```
+
+### Step 7: Install Python Dependencies for TTS, (streamlit included)
+```bash
+python3.10 -m pip install -r requirements.txt
+```
+
+### Step 8: Run the Application:
+```bash
+streamlit run streamlit_audio_converter.py --server-port 80
+```
+### Step 9: Access the Application: 
+Locally: http://127.0.0.1
+Cloud Based Deployment: http://<public ip>   **Note: You need to add inbound port 80 to firewall rules**
+
 
