@@ -94,6 +94,7 @@ streamlit run streamlit_audio_converter.py --server-port 80
 ```
 ### Step 9: Access the Application: 
 * Locally: http://127.0.0.1
-* Cloud Based Deployment: http://<public ip>   **Note: You need to add inbound port 80 to firewall rules**
+* Cloud Based Deployment: ```http://<public ip>``` 
+* Note: You need to add inbound port 80 to firewall rules for cloud-based deployment
 
 
