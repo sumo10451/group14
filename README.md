@@ -47,7 +47,7 @@ This application will be using the frontend web application as the User interfac
 4. Deploying it on one of the cloud-based providers to run over the network
 
 ### Iteration 5:
-1. Documentation and presentation for the project delivery.
+Documentation and presentation for the project delivery.
 
 # Installation
  System Requirement and project setup: (Ubuntu or any Debian distro)
